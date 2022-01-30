@@ -35,7 +35,9 @@ PlayerData.metadata['levels'] = PlayerData.metadata['levels'] or {
   ['hunting'] = 0
 }
 ```
-- create a new character or add the hunting xp and level manually into the database (for every player)
+- add the items from files/items.lua to your qbr-core/shared/items.lua
+- copy image from files/meat.png to your qbr-inventory/html/images
+- create a new character or add the hunting xp and level manually into the database (for every player) 
 - have fun
 
 # Config
