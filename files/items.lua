@@ -1,1 +1,10 @@
---
+	-- Hunting
+	['game'] 					= {['name'] = 'game', 					['label'] = 'Game Meat', 					['weight'] = 100, 		['type'] = 'item', 				['image'] = 'meat.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,		['level'] = 0,      ['description'] = 'Placeholder.'},
+	['biggame'] 				= {['name'] = 'biggame', 		    	['label'] = 'Biggame Meat', 				['weight'] = 100, 		['type'] = 'item', 				['image'] = 'meat.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,		['level'] = 0,      ['description'] = 'Placeholder.'},
+	['venison'] 				= {['name'] = 'venison', 				['label'] = 'Venison', 					    ['weight'] = 100, 		['type'] = 'item', 				['image'] = 'meat.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,		['level'] = 0,      ['description'] = 'Placeholder.'},
+	['bird'] 					= {['name'] = 'bird', 					['label'] = 'Bird Meat', 					['weight'] = 100, 		['type'] = 'item', 				['image'] = 'meat.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,		['level'] = 0,      ['description'] = 'Placeholder.'},
+	['stringy'] 				= {['name'] = 'stringy', 		    	['label'] = 'Stringy Meat', 				['weight'] = 100, 		['type'] = 'item', 				['image'] = 'meat.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,		['level'] = 0,      ['description'] = 'Placeholder.'},
+	['wool'] 					= {['name'] = 'wool', 					['label'] = 'Wool', 					    ['weight'] = 100, 		['type'] = 'item', 				['image'] = 'meat.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,		['level'] = 0,      ['description'] = 'Placeholder.'},
+	['pork'] 					= {['name'] = 'pork', 					['label'] = 'Pork Meat', 					['weight'] = 100, 		['type'] = 'item', 				['image'] = 'meat.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,		['level'] = 0,      ['description'] = 'Placeholder.'},
+	['fish'] 					= {['name'] = 'fish', 					['label'] = 'Fish Meat', 					['weight'] = 100, 		['type'] = 'item', 				['image'] = 'meat.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,		['level'] = 0,      ['description'] = 'Placeholder.'},
+	
